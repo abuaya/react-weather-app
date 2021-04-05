@@ -9,7 +9,7 @@ export default function Footer() {
         <a href="https://github.com/abuaya/Weather-App-Project">
           Open-source code{" "}
         </a>{" "}
-        by Alisha Buaya
+        by Alisha Buaya and hosted on <a href = "#"> Netlify </a>
       </footer>
 
       <script src="src/index.js"></script>
