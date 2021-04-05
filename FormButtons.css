@@ -1,0 +1,18 @@
+.form-control {
+  position: relative;
+  left: 50px;
+  top: 33px;
+  width: 50%;
+}
+
+.btn-primary {
+  position: relative;
+  left: 450px;
+  top: -5px;
+}
+
+.btn-success {
+  position: relative;
+  left: 475px;
+  top: -5px;
+}
